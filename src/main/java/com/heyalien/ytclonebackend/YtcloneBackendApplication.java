@@ -8,6 +8,7 @@ public class YtcloneBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(YtcloneBackendApplication.class, args);
+		System.out.println("Started... !!");
 	}
 
 }
